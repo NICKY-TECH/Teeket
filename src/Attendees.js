@@ -1,9 +1,9 @@
 import React from 'react'
-import people from '../src/images/people-images.png'
-import frame153 from '../src/images/Frame153.png'
-import frame154 from '../src/images/Frame154.png'
-import event from '../src/images/event-cards.png'
-import '../src/styles/Attendees.css'
+import people from './Images/people-images.png'
+import frame153 from './Images/Frame153.png'
+import frame154 from './Images/Frame154.png'
+import event from './Images/event-cards.png'
+import './styles/Attendees.css'
 
 function Attendees() {
   return (

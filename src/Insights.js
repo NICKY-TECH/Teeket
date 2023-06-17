@@ -1,11 +1,11 @@
 import React from 'react'
-import graph from '../src/images/Graph.jpg'
-import img3 from '../src/images/image_three.png'
-import img4 from '../src/images/image_four.png'
-import img5 from '../src/images/image-five.jpg'
+import graph from './Images/Graph.jpg'
+import img3 from './Images/image_three.png'
+import img4 from './Images/image_four.png'
+import img5 from './Images/image-five.jpg'
 import { GoChevronLeft, GoChevronDown } from 'react-icons/go'
 import { BsInfoCircle } from 'react-icons/bs'
-import '../src/styles/Insights.css'
+import './styles/Insights.css'
 import {useNavigate} from 'react-router-dom';
 
 function Insights() {
